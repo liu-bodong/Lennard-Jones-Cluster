@@ -1,2 +1,2 @@
 # Lennard-Jones-Cluster
-A numerical analysis approach to optimize the total Lennard-Jones Energy for N-particle system
+Model Lennard-Jones Energy Clusters that optimize the total Lennard-Jones Energy for N-particle system
